@@ -12,7 +12,6 @@ This is a repository from the Code;Me - SQL course from scratch.
 * SQL - Day 4
 * SQL - Day 5
 * SQL - Day 6
-* SQL - Day 7
 
 	
 ## Technologies
