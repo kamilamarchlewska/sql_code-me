@@ -9,7 +9,7 @@ This is a repository from the Code;Me - SQL course from scratch.
 * SQL - Day 1 - SQL BASICS
 * SQL - Day 2 - JOIN OPERATIONS, SUBQUERIES, FETCH
 * SQL - Day 3 - JOIN OPERATIONS, SUBQUERIES, FETCH
-* SQL - Day 4
+* SQL - Day 4 - JOIN OPERATIONS, SUBQUERIES, FUNCTIONS, VIEW
 * SQL - Day 5
 * SQL - Day 6
 
